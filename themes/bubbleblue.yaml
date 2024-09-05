@@ -2,8 +2,9 @@
 
 # Noctis from aFFekopp was my initial theme (thanks dude!) 
 # Bubble is a modified one and is maintained by Clooos
+# Bubbleblue is a modified one from Bubble
 
-Bubble:  
+Bubbleblue:  
 
   # Fonts
   primary-font-family: "sans-serif"
@@ -52,19 +53,19 @@ Bubble:
   
   # Main Colors
   app-header-background-color: 'var(--background-color)' #'#242e42'
-  accent-color: 'rgb(80, 110, 172)'
+  accent-color: 'rgba(204, 120, 200, 1)'
   accent-medium-color: 'var(--accent-color)'
 
   # Background
-  background-color: 'rgba(57, 54, 70, 1)' #'rgb(23, 24, 26)'
+  background-color: 'rgba(47, 54, 80, 1)' #'rgb(23, 24, 26)'
   primary-background-color: 'var(--background-color)'
-  background-color-2: 'rgb(92, 83, 103)' #'#2e4a74' 
+  background-color-2: 'rgb(82, 83, 113)' #'#2e4a74' 
   secondary-background-color: 'none'
   markdown-code-background-color: 'var(--background-color)'
   
   # Card
   card-background-color: 'var(--ha-card-background)'
-  ha-card-background: 'rgba(79, 69, 87, 1)' #'rgb(36, 37, 41)'
+  ha-card-background: 'rgba(69, 69, 97, 1)' #'rgb(36, 37, 41)'
   ha-card-box-shadow: 'none'
   ha-card-border-radius: '28px'
   ha-card-border-style: 'solid !important'
@@ -74,7 +75,7 @@ Bubble:
   grid-card-gap: '18px'
   horizontal-stack-card-margin: '0 10px'
   border-style: 'none !important'
-  ha-card-background-active: 'rgba(103,114,209, 0.4) radial-gradient(at bottom, rgba(103,114,209, 0.5) 0%, rgba(103,114,209, 0) 70%)'
+  ha-card-background-active: 'rgba(93,114,219, 0.4) radial-gradient(at bottom, rgba(103,114,209, 0.5) 0%, rgba(103,114,209, 0) 70%)'
   control-button-border-radius: '50px'
   control-button-background-color: 'var(--ha-card-background)'
 
