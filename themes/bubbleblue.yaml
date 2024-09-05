@@ -53,7 +53,7 @@ Bubbleblue:
   
   # Main Colors
   app-header-background-color: 'var(--background-color)' #'#242e42'
-  accent-color: 'rgba(204, 120, 200, 1)'
+  accent-color: 'rgba(175, 103, 171, 1)'
   accent-medium-color: 'var(--accent-color)'
 
   # Background
